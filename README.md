@@ -6,7 +6,6 @@
 </head>
 <body>
     <H1>PRAISE AND WORSHIP</H1>
-        <a href="https://jimubenjamin81-star.github.io/index.html/">https://jimubenjamin81-star.github.io/index.html/</a>
     <h3>BY HIS BLOOD WE WHERE REDEEMED</h3>
 
     <STYLe>
@@ -22,7 +21,7 @@
         h2{
 display: inline-flex;
 width: 200px;
-height: 215px;
+height: 250px;
 background-color: darkseagreen;
         }
         h2{

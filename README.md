@@ -21,7 +21,7 @@
         h2{
 display: inline-flex;
 width: 200px;
-height: 250px;
+height: 300px;
 background-color: darkseagreen;
         }
         h2{

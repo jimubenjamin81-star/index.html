@@ -14,8 +14,7 @@
         h3{text-align: center;}
         H1{color: aliceblue;}
         H2{color: white;}
-        H3{color: aliceblue;
-        background-color: darkseagreen;}
+        H3{color: aliceblue;}
     </STYLe>
     <STYLE>
         h2{
